@@ -23,7 +23,7 @@
 </a>
 &nbsp;
 <a href="https://www.codechef.com/users/sudhanshudaur" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="28"/>
+ <img width="28" src="https://img.icons8.com/color/48/codechef.png" alt="codechef"/>
 </a>
 &nbsp;
 <a href="https://www.hackerrank.com/sudhanshudaur" target="_blank">
